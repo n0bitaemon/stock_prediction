@@ -1,4 +1,6 @@
 # Stock Price Prediction Project
+This is a capstone project for a Machine Learning course. 
+
 This project aims to predict stock prices using machine learning techniques. By analyzing historical stock data and employing various algorithms, we can estimate future stock prices and assist in making informed investment decisions.
 
 ## Table of Contents
@@ -50,5 +52,15 @@ Remember to repeat the above steps for each algorithm or model within the `Model
 
 ## Contributing <a name="contributing"></a>
 
-Contributions to the Stock Price Prediction project are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue on the project's GitHub repository.
+The Stock Price Prediction project welcomes contributions from the following team members:
+
+| Team Member  |  Contribution |
+| ------------ | ------------ |
+| Dang Kieu Trinh    | Data preprocessing, Linear Regression Model, Model Evaluation, Slide, Report |
+| Nguyen Minh Triet  | Data preprocessing, Feature engineering, Random Forest Model, Slide, Report |
+| Dang Minh Duc | LSTM Model, Slide, Report |
+| Nguyen Manh Cuong | KNN Model, Slide, Report |
+
+
+
 
